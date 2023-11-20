@@ -37,6 +37,15 @@ As of this commit, I had finished the following parts of the project. These are 
 - Using a Layout Component
 - Tag Filter
 - Search Filter
+- Clockwork Package
+- Create Listing Form
+- Validation & Store Listing
+- Mass Assignment Rule
+- Flash Messages
+- Alpine.js For Message Removal
+- Keep Old Data In Form
+- Pagination
+- File Upload
 
 ## License
 
