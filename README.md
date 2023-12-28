@@ -46,6 +46,18 @@ As of this commit, I had finished the following parts of the project. These are 
 - Keep Old Data In Form
 - Pagination
 - File Upload
+- Edit Listing
+- Delete Listing
+- User Registration
+- Auth Links
+- User Logout
+- User Login
+- Auth & Guest Middleware
+- Relationships
+- Tinker Tinkering
+- Add Ownership to Listings
+- Manage Listings Page
+- User Authorization
 
 ## License
 
